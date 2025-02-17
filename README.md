@@ -1,0 +1,8 @@
+"We are improving a Python program designed to do: {user_input}\n"
+    "# The current version of the program is provided below.\n"
+    "# The execution output from the previous run is also included.\n"
+    "# Everything output by the model will be treated as code.\n"
+    "# Any explanatory text should be prefixed with '#'.\n"
+    "# Ensure all generated output follows this format to prevent execution errors.\n"
+    "# Improve the program based on its current state and execution results.\n"
+    "# Only output the program do not say anything else no verbosity at all."
